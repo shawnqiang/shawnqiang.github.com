@@ -4,7 +4,7 @@
   <title><![CDATA[Shawnqiang's Blog]]></title>
   <link href="http://shawnqiang.github.com/atom.xml" rel="self"/>
   <link href="http://shawnqiang.github.com/"/>
-  <updated>2012-07-02T18:07:33-04:00</updated>
+  <updated>2012-07-04T16:26:40-04:00</updated>
   <id>http://shawnqiang.github.com/</id>
   <author>
     <name><![CDATA[shawn qiang]]></name>
@@ -14,16 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello Octopress]]></title>
-    <link href="http://shawnqiang.github.com/blog/2012/07/02/hello-octopress/"/>
-    <updated>2012-07-02T14:11:00-04:00</updated>
-    <id>http://shawnqiang.github.com/blog/2012/07/02/hello-octopress</id>
-    <content type="html"><![CDATA[<p><strong>Hello Octopress!</strong>
-This is an example post for more information see:</p>
-
-<hr />
-
-<h2>$ sudo make me a sandwich</h2>
+    <title type="html"><![CDATA[Your will love vimimu if you love Chrome and Vim]]></title>
+    <link href="http://shawnqiang.github.com/blog/2012/07/04/your-will-love-vimimu-if-you-love-chrome-and-vim/"/>
+    <updated>2012-07-04T12:46:00-04:00</updated>
+    <id>http://shawnqiang.github.com/blog/2012/07/04/your-will-love-vimimu-if-you-love-chrome-and-vim</id>
+    <content type="html"><![CDATA[<h2>What is vimium?</h2>
 ]]></content>
   </entry>
   
